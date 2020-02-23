@@ -1,3 +1,4 @@
 class Problem < ApplicationRecord
-  belong_to :user
+  belongs_to :user
+  belongs_to :genre
 end

@@ -9,6 +9,14 @@
 .menu{
   height: 50px;
   width: 100%;
+  display: flex;
+  .user{
+    margin-left: 20px;
+
+  }
+  .language{
+
+  }
 }
 .navbar{
   height: 50px;
